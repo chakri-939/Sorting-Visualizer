@@ -3,7 +3,7 @@
   <a href="https://chakri-sorting-algorithm-visualizer.netlify.app/" target="_blank">chakri-sorting-visualizer</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./images/project-3.png" />
+  <img alt="Demo" src="./assets/project-3.png" />
 </div>
 
 <br/>
